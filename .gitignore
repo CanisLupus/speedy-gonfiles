@@ -1,0 +1,23 @@
+# Ignore everything by default.
+*
+
+# But not these...
+!.gitignore
+!README.md
+!LICENSE
+
+!/project/
+
+!/project/Speedy GonFiles.sln
+!/project/Speedy GonFiles.vcxproj
+!/project/Speedy GonFiles.vcxproj.filters
+!/project/Speedy GonFiles.vcxproj.user
+
+!/project/include/
+!/project/include/**
+
+!/project/res/
+!/project/res/**
+
+!/project/src/
+!/project/src/**
