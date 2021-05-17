@@ -5,6 +5,8 @@ Speedy GonFiles
 
 Speedy GonFiles is a fast Windows program to find duplicate files. Run the program and drag files/folders to the window. It will process all the files and mark any duplicates with colors.
 
+Download [here](https://github.com/CanisLupus/speedy-gonfiles/releases).
+
 It was heavily inspired by [HashMyFiles](https://www.nirsoft.net/utils/hash_my_files.html), which I frequently used to check for duplicates. However, instead of focusing on applying commonly known hashes and showing duplicate files as a by-product, Speedy GonFiles focuses on finding duplicates, so it only hashes files for comparison if multiple files have the same size (using the very fast [Meow hash](https://github.com/cmuratori/meow_hash)). It can also add files inside folders recursively, unlike HashMyFiles.
 
 ## Requirements
